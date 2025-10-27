@@ -41,7 +41,6 @@ main {
 .header__link {
   display: list-item;
   list-style-type: circle;
-  border-bottom: 1px solid black;
   font-size: 18px;
 }
 
