@@ -50,8 +50,7 @@ main {
 
 .header__logo {
   display: block;
-  justify-self: center;
-  align-self: center;
+  margin: auto;
   width: 140px;
 }
 
