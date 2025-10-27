@@ -306,9 +306,7 @@ main {
   padding:  0 26px 0 70px;
 }
 
-
-
-.about__logo {
+.about_logo-image {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -398,3 +396,8 @@ main {
   gap: 48px;
   list-style: none;
 }
+.footer__social-icon {
+  width: auto;
+  height: 48px;
+}
+
