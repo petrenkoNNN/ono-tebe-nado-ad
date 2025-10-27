@@ -76,13 +76,12 @@ main {
   padding-left: 3px;
 }
 
-.contacts-element{
+.contacts-element {
   width: 240px;
   padding-right: 3px;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  font-style: normal;
   color: #000;
   font-family: Raleway, sans-serif;
   font-size: 18px;
@@ -91,7 +90,7 @@ main {
   line-height: 12px;
 }
 
-.city-address-second{
+.city-address-second {
   padding-top: 12px;
 }
 
@@ -103,7 +102,7 @@ main {
   background-image: url(images/cover.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  margin-bottom: 183px; ;
+  margin-bottom: 183px;
 }
 
 .overlay {
@@ -295,7 +294,6 @@ main {
   margin: 30px 0 0 40px;
   font-size: 20px;
   text-decoration: none;
-  font-size: 20px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
@@ -335,9 +333,7 @@ main {
 
 .about__title {
   padding: 100px 0 99px 0;
-  font-weight: bold;
   font-size: 40px;
-  line-height: 1;
   text-transform: uppercase;
   font-weight: 700;
   line-height: normal;
@@ -360,11 +356,11 @@ main {
   padding: 155px 50px 80px;
 }
 
-.footer__contacts-element{
+.footer__contacts-element {
   margin-top: 6px;
 }
 
-.city-address-2{
+.city-address-2 {
   padding-top: 12px;
 }
 
