@@ -84,7 +84,7 @@ main {
   line-height: 12px;
 }
 
-phone-address {
+.phone-address {
   text-decoration: none;
   border-bottom: 0.5px solid black;
 }
