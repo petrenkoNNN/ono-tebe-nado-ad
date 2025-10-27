@@ -44,11 +44,6 @@ main {
   font-size: 18px;
 }
 
-.text-link:hover {
-  background-color: #000000;
-  color: #FFF;
-}
-
 .header__link_active {
   text-decoration: none;
 }
@@ -165,10 +160,6 @@ main {
 
 .no-letter-spacing {
   letter-spacing: 0px;
-}
-
-.remove-spacing {
-  letter-spacing: normal;
 }
 
 .cover__description {
