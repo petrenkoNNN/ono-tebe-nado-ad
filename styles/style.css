@@ -276,6 +276,7 @@ main {
   line-height: 120%;
   justify-content: space-around;
   padding: 0px 40px 45px;
+  text-decoration: none;
 }
 
 .lots__look-more-link {
